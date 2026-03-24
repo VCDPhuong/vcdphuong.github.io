@@ -4,12 +4,13 @@ title: About me
 subtitle: Aside from being a PhD student<br>What else do you need to know about me?
 ---
 
-<p>My name is Vo Chau Duc Phuong (if posible, please call me Phuong) and I am a PhD student in LPMMC lab.<br>My supervisors are Denis Basko, Loïc Herviou and Thierry Champel.</p>
+<p>My name is Vo Chau Duc Phuong (if posible, please call me Phuong) and I am a PhD student in LPMMC lab.<br>My supervisors are Drs. Denis Basko, Loïc Herviou and Thierry Champel.</p>
 \\
 So, let get to the job:
 
 ### My Background:
-- PhD: University of Grenoble-Alps
+- Laboratory: LPMMC, CNRS Grenoble.
+- Doctoral school: University of Grenoble-Alps
 - Place of birth: Long Xuyen, An Giang (It is a small town about 200 Km from Ho Chi Minh city, [maps](https://maps.app.goo.gl/9BTDmQKhCJ4TQk398))
 - Bachelor: University of Science, VNU-HCM
 
