@@ -4,7 +4,7 @@ title: About me
 subtitle: Aside from being a PhD student<br>What else do you need to know about me?
 ---
 
-\hspace{1em} My name is Vo Chau Duc Phuong (if posible, please call me Phuong) and I am a PhD student in LPMMC lab. My supervisors are Denis Basko, Loïc Herviou and Thierry Champel.\\
+$\quad$ My name is Vo Chau Duc Phuong (if posible, please call me Phuong) and I am a PhD student in LPMMC lab. My supervisors are Denis Basko, Loïc Herviou and Thierry Champel.\\
 \\
 So, let get to the job:
 
