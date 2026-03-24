@@ -5,7 +5,6 @@ subtitle: Aside from being a PhD student<br>What else do you need to know about 
 ---
 
 <p>My name is Vo Chau Duc Phuong (if posible, please call me Phuong) and I am a PhD student in LPMMC lab.<br>My supervisors are Drs. Denis Basko, Loïc Herviou and Thierry Champel.</p>
-\\
 So, let get to the job:
 
 ### My Background:
