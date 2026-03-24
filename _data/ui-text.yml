@@ -348,7 +348,7 @@ id-ID:
 # Vietnamese
 # ----------
 vi: &DEFAULT_VI
-  comments_label             : "Để lại bình luận (Kết thúc của bình luận phải có dòng chữ "Wibu never die!", nếu không sẽ không trả lời!)
+  comments_label             : "Để lại bình luận (Kết thúc của bình luận phải có dòng chữ "Wibu never die!", nếu không sẽ không trả lời!)"
   comments_title             : "Chỗ này là chỗ để bình luận nè"
   comment_form_info          : "Yên tâm, email sẽ được giữ bí mật (chắc vậy....). Nhớ điền đủ các phần bắt buộc"
   comment_form_comment_label : "Bình luận"
