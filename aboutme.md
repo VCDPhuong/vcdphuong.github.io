@@ -4,14 +4,14 @@ title: About me
 subtitle: Aside from being a PhD student<br>What else do you need to know about me?
 ---
 
-<p>My full name is Vo Chau Duc Phuong and I am a PhD student in LPMMC lab.
+<p>My full name is Vo Chau Duc Phuong, and I am a PhD student in the LPMMC lab.
 <br>I am working under the supervision of Drs. Denis Basko, Loïc Herviou and Thierry Champel.</p>
 
 ### Something About My Name:
-<p>- Family Name: Võ Châu<br>
+<p>- First Name: Phương (how to call me)<br>
 - Middle Name: Đức<br>
-- Last Name: Phương (how to call me)<br>
-All Vietnamese name have the meaning, you can try to find mine.</p>
+- Family Name: Võ Châu<br>
+All Vietnamese names have a meaning; you can try to find mine.</p>
 
 
 ### My Background:
@@ -24,7 +24,7 @@ All Vietnamese name have the meaning, you can try to find mine.</p>
 ### My Research Topics:
 - Light-matter interaction in low dimentional system (1D and 2D system) using Green funtion.
 - Altermagnetism using DFT (Quantum Espresso and Wannier90).
-- Light-matter interaction in semiconductor.
+- Light-matter interaction in a semiconductor.
 
 
 <details>
