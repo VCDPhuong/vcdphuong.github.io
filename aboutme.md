@@ -26,9 +26,14 @@ All Vietnamese name have the meaning, you can try to find mine.</p>
 - Altermagnetism using DFT (Quantum Espresso and Wannier90).
 - Light-matter interaction in semiconductor.
 
-### List of My Pubilcation:
 
+<details>
+  <summary>
+### List of My Pubilcation:
+  </summary>
 1. P. D. Vo Chau, & Huynh, T. D. (2024). Calculation of shift current tensors in two-dimensional transition metal dichalcogenides. E3S Web of Conferences, 496, 02002–02002. https://doi.org/10.1051/e3sconf/202449602002
+</details>
+
 
 
 ### My story:
