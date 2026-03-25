@@ -6,6 +6,14 @@ subtitle: Aside from being a PhD student<br>What else do you need to know about 
 
 <p>My full name is Vo Chau Duc Phuong and I am a PhD student in LPMMC lab.
 <br>I am working under the supervision of Drs. Denis Basko, Loïc Herviou and Thierry Champel.</p>
+
+### Something About My Name:
+- Family Name: Võ Châu
+- Middle Name: Đức
+- Last Name: Phương (how to call me)
+All Vietnamese name have the meaning, you can try to find mine.
+
+
 So, let get to the job:
 
 ### My Background:
