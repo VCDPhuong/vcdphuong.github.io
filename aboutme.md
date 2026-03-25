@@ -16,7 +16,7 @@ All Vietnamese name have the meaning, you can try to find mine.</p>
 
 ### My Background:
 - Laboratory: LPMMC, CNRS Grenoble.
-- Doctoral school: University of Grenoble-Alps.
+- Doctoral school: University of Grenoble-Alpes.
 - Place of birth: Long Xuyen, An Giang ([maps](https://maps.app.goo.gl/9BTDmQKhCJ4TQk398)).
 - Bachelor: University of Science, VNU-HCM.
 - Weeb: full-time.
