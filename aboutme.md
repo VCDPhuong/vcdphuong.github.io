@@ -10,7 +10,7 @@ subtitle: Aside from being a PhD student<br>What else do you need to know about 
 ### Something About My Name:
 - Family Name: Võ Châu
 - Middle Name: Đức
-- Last Name: Phương (how to call me)
+- Last Name: Phương (how to call me)\\
 All Vietnamese name have the meaning, you can try to find mine.
 
 
