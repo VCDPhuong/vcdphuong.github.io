@@ -59,6 +59,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: "@daattali"
   whatsapp: (+84) 949103584
+  ORCID: https://orcid.org/0000-0003-0978-916X
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -95,11 +96,12 @@ rss-description: This website is a virtual proof that I'm fine
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
   reddit: false
+  ORCID: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
