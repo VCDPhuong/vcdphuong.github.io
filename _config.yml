@@ -51,10 +51,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "vcdphuong@outlook.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/lostreangthe
-  github: https://github.com/VCDPhuong
+  facebook: lostreangthe
+  github: VCDPhuong
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
