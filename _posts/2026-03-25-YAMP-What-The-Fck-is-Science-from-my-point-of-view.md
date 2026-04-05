@@ -31,4 +31,4 @@ Then, my friend, don't worry, my point of view in which is a science is even mor
 
 Yes, you point right at the heart of my wonderful opinion, it is the self-consistence of the assumption. In short, if it wrong and you did the math right (this is a must :>), one assumption or all of them is definitely wrong, just how severse it is. We then just have to return to the first step, without the logic or not, get a new set of assumptions and their corresponding equations before solving it and compare it with the results again.
 
-Is it still a little bit complicated or confusing? Then an example will make it much clearer. Assuming that you 
+Is it still a little bit complicated or confusing? Then an example will make it much clearer. Assuming that you.
