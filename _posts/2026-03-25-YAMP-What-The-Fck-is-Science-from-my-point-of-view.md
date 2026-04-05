@@ -17,4 +17,16 @@ author: Vo Chau Duc Phuong
 
 > No, we don't!
 
-The point I am going to make that, the correction of solution into taking account of air resistance give very small correlation in most of the scenario case you will see in the course. The course of physics in highschool and in the first year of college is not for you to find the exact solution of any physics problem, but rather give you a hint that, how to use mathematical equations to solve for a specific physics problem. After all, beside math, I would rather say that all the scientific subject which involve the 
+<p>The point I am going to make that, the correction of solution into taking account of air resistance give very small correlation in most of the scenario case you will see in the course, typicaly a few meters at most. The course of physics in highschool and in the first year of college is not for you to find the exact solution of any physics problem, but rather give you a hint that, how to use mathematical equations to solve for a specific physics problem. After all, beside math, I would rather say that all the scientific subject which involve the experimental observation by their nature, is not the subject of the truth.</p>
+
+>But, Phuong, then what is the point of their jobs, if not find the truth? Are they an useless thing?
+
+<p>Then, my friend, don't worry, my point of view in which is a science is even more wide than your thinking. The role of everything called science is: to "modeling, explaining and predecting". Is it a little bit complicated with you? Let me breake it down one by one.</p>
+
+<p>**Modeling**, is starting from a set of assumption, which we can't explain why it is true but with our generous, accept it and take it as a starting point. After that, we will have a bunch of math equations that have been derived from those assumptions and it is our job to solve it using mathmatical tools. **Explaining**, is using the results from the model to explain the observation. And **Predecting**, is to use our model to compute and predict the results for the future observation, aka experiment.</p>
+
+>Then, what happend if our results is wrong?
+
+<p>Yes, you point right at the heart of my wonderful opinion, it is the self-consistence of the assumption. In short, if it wrong and you did the math right (this is a must :>), one assumption or all of them is definitely wrong, just how severse it is. We then just have to return to the first step, without the logic or not, get a new set of assumptions and their corresponding equations before solving it and compare it with the results again.</p>
+
+<p>Is it still a little bit complicated or confusing? Then an example will make it much clearer. Assuming that you </p>
