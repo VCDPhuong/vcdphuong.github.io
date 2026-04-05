@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What The F*ck is Science, from my point of view?
-subtitle: Yapping About My Oppinion (YAMP)
+subtitle: Yapping About My Oppinion (YAMO)
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg

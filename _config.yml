@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   
   Resources:
- #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Download My CV: "https://raw.githubusercontent.com/VCDPhuong/CV/main/CV.pdf"
+    - My Lab's Website: "https://lpmmc.cnrs.fr/"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
 
